@@ -1,0 +1,23 @@
+[{
+	"x":120,
+	"y":279,
+	"width":75,
+	"height":10,
+	"class":"link",
+	"data":
+	{
+		"url":"https://www.instagram.com/azinzaashaki/"
+	}
+},
+	{
+		"x":115,
+		"y":413,
+		"width":75,
+		"height":10,
+		"class":"link",
+		"data":
+		{
+			"url":"https://www.instagram.com/lucasgalvao___/"
+		}
+	}
+]
